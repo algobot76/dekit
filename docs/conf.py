@@ -1,6 +1,6 @@
 # Project
 project = 'Dekit'
-copyright = '2019 Kaitian xie'
+copyright = '2019 Kaitian Xie'
 author = 'Kaitian Xie'
 version = 'v0.0.1'
 release = 'v0.0.1'
