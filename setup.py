@@ -1,11 +1,13 @@
 from setuptools import setup, find_packages
 
+import dekit
+
 with open('README.rst', 'r') as f:
     readme = f.read()
 
 setup(
     name='dekit',
-    version='0.0.1',
+    version=dekit.__version__,
     description='A collection of useful Python decorators',
     long_description=readme,
     long_description_content_type="text/x-rst",

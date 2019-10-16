@@ -1,9 +1,11 @@
+import dekit
+
 # Project
 project = 'Dekit'
 copyright = '2019 Kaitian Xie'
 author = 'Kaitian Xie'
-version = 'v0.0.1'
-release = 'v0.0.1'
+version = dekit.__version__
+release = dekit.__version__
 
 # General
 master_doc = 'index'

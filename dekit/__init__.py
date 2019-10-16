@@ -5,3 +5,5 @@ __all__ = [
     'deprecated',
     'run_once'
 ]
+
+__version__ = '0.0.2'
