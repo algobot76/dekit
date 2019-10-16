@@ -6,8 +6,8 @@ Dekit is a collection of useful Python decorators.
 API Reference
 -------------
 
-.. toctree::
-   :maxdepth: 2
+.. module:: dekit
 
-   deprecated
-   run_once
+.. autofunction:: deprecated
+
+.. autofunction:: run_once
