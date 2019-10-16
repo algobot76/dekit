@@ -1,4 +1,4 @@
-Deprecated
+deprecated
 ==========
 
 .. module:: dekit
