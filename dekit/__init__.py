@@ -1,1 +1,5 @@
-from .core import hmm
+from .deprecated import deprecated
+
+__all__ = [
+    'deprecated'
+]
