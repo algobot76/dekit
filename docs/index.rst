@@ -10,3 +10,4 @@ API Reference
    :maxdepth: 2
 
    deprecated
+   run_once
